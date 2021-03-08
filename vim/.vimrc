@@ -6,6 +6,7 @@ syntax on
 
 " turn on line numbering
 set number
+set relativenumber
 
 " turn on mouse interactions
 set mouse=a
