@@ -15,6 +15,7 @@ set relativenumber
 
 " set folding to indentation
 set foldmethod=indent
+set nofoldenable
 
 " set max line length before wrap
 set textwidth=120
